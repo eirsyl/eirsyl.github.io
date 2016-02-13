@@ -1,0 +1,27 @@
+.hero-sylliaas {
+  background-color: #5342CF
+}
+
+.title-sylliaas {
+  color: #FFF;
+  font-family: 'Lobster', cursive;
+  font-size: 3em;
+}
+
+.social-icons {
+  margin-top: 40px;
+}
+
+.social-icons a {
+  font-size: 1.5em;
+  color: #FFF;
+  margin-right: 10px;
+}
+
+.social-icons a:last-child {
+  margin-right: 0px;
+}
+
+.social-icons a:hover {
+  color: #DDD;
+}
